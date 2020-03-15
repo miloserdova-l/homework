@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569270961 source:/home/lyubov/Desktop/task2/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1572855180 source:/home/lyubov/Desktop/hw programming/task2/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
